@@ -319,11 +319,13 @@ export default function ProgramsPage() {
 								</a>
 							</div>
 							<p className="text-gray-400">
-								The quarterly hackathon is open to all
-								developers or idea stage projects. Showcase your
-								project to compete for a prize pool worth of
-								hundreds of thousands of dollars in rewards and
-								benefits!
+								The 1-Click Telegram Game is a simple and
+								customizable solution for launching interactive
+								games on Telegram. With just one click, you can
+								deploy your own branded game, complete with
+								leaderboards, rewards, and engaging gameplay.
+								Perfect for community engagement, marketing, or
+								creating fun experiences for your audience!
 							</p>
 						</Card>
 
