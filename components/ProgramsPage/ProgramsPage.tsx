@@ -308,9 +308,15 @@ export default function ProgramsPage() {
 										Available Anytime
 									</div>
 								</div>
-								<Button variant="ghost" size="icon">
-									<ArrowRight className="h-4 w-4" />
-								</Button>
+								<a
+									href="https://dapp-deployer.vercel.app/"
+									target="_blank"
+									rel="noopener noreferrer"
+								>
+									<Button variant="ghost" size="icon">
+										<ArrowRight className="h-4 w-4" />
+									</Button>
+								</a>
 							</div>
 							<p className="text-gray-400">
 								The quarterly hackathon is open to all
@@ -345,9 +351,15 @@ export default function ProgramsPage() {
 										Available Anytime
 									</div>
 								</div>
-								<Button variant="ghost" size="icon">
-									<ArrowRight className="h-4 w-4" />
-								</Button>
+								<a
+									href="https://github.com/onflow/developer-grants"
+									target="_blank"
+									rel="noopener noreferrer"
+								>
+									<Button variant="ghost" size="icon">
+										<ArrowRight className="h-4 w-4" />
+									</Button>
+								</a>
 							</div>
 							<p className="text-gray-400">
 								The Flow Foundation Fast Grant is a streamlined
